@@ -13,4 +13,8 @@ Socket을 이용한 채팅 프로그램
 ![서버3](https://user-images.githubusercontent.com/35260116/142875767-03c12137-ede1-415f-8984-af5440977b36.jpg)
 
 ## 클라이언트UI
-
+### 1. 클라이언트 아이디 입력
+![Client1](https://user-images.githubusercontent.com/35260116/142876371-1f83f617-8dec-4762-a1cc-19b446988b1a.jpg)
+![Client2](https://user-images.githubusercontent.com/35260116/142876376-3dde1cd1-f825-43d6-a14d-844d4e82dbdc.jpg)
+### 2. 클라이언트 채팅
+![Client3](https://user-images.githubusercontent.com/35260116/142876378-0e6defc1-495d-47e4-97bd-e003f7f0fa71.jpg)
